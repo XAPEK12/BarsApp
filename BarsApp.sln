@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarsApp", "BarsApp\BarsApp.csproj", "{89C1682D-E5A0-4C02-895E-2EB50A6C158C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89C1682D-E5A0-4C02-895E-2EB50A6C158C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C1682D-E5A0-4C02-895E-2EB50A6C158C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C1682D-E5A0-4C02-895E-2EB50A6C158C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C1682D-E5A0-4C02-895E-2EB50A6C158C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6097647-5777-4FA6-A455-CDC482C7371A}
+	EndGlobalSection
+EndGlobal
