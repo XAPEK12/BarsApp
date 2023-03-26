@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<RevitAddIns>
+<AddIn Type="Application">
+<Name>BarsApp</Name>
+<Assembly>"BarsApp\BarsApp.dll"</Assembly>
+<ClientId>6C63FF71-B6B7-462B-ACD2-27C115D32982</ClientId>
+<FullClassName>BarsApp.App</FullClassName>
+<VendorId>BIM-bureau</VendorId>
+<VendorDescription>BIM-bureau, www.bim-bureau.ru</VendorDescription>
+</AddIn>
+</RevitAddIns>
